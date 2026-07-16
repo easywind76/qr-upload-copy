@@ -1,0 +1,2 @@
+# No external dependencies needed - all modules are Python standard library
+# http.server, smtplib, json, base64, email, mimetypes, os, sys, datetime
