@@ -1,9 +1,0 @@
-﻿{
-    "smtpServer":  "smtp.163.com",
-    "maxFileSizeMB":  500,
-    "smtpUseSSL":  false,
-    "smtpPort":  25,
-    "smtpPassword":  "XL5fanTkTWz7hcR2",
-    "targetEmail":  "youthofnua@163.com",
-    "smtpUsername":  "youthofnua@163.com"
-}
